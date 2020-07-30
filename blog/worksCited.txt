@@ -1,0 +1,27 @@
+**These links were used to aid in styling with Bootstrap**
+
+https://www.w3schools.com/bootstrap/bootstrap_get_started.asp
+
+https://www.w3schools.com/bootstrap/bootstrap_jumbotron_header.asp
+
+https://www.w3schools.com/bootstrap/bootstrap_tables.asp
+
+https://www.w3schools.com/bootstrap/bootstrap_forms.asp
+
+https://www.w3schools.com/bootstrap/bootstrap_buttons.asp
+
+https://www.w3schools.com/bootstrap/bootstrap_wells.asp
+
+
+
+**This link was used to troubleshoot Bootstrap table styles**
+https://stackoverflow.com/questions/30411337/bootstrap-table-hover-is-not-working
+
+**Used to double-check max-width attribute**
+https://www.w3schools.com/tags/att_textarea_maxlength.asp
+
+**Used to reference SQL NOW() function**
+https://www.w3schools.com/sql/func_mysql_now.asp
+
+**Used to reference escape strings**
+https://www.w3schools.com/php/func_mysqli_real_escape_string.asp
