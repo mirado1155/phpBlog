@@ -10,3 +10,5 @@ Then, go into the 'connectvars.php' file and change the username/pwd/db etc valu
 Go into 'authorize.php' and add your username and password (at the very top). This locks access to your admin page so that only you can add/remove your own posts.
 
 For the sake of cleanliness, I chose not to provide a link to the admin page. You must manually change the url to be blog/admin.php to access it.
+
+Lastly, you may change the header/title/etc to your heart's content, but just know that this blog was developed by me!
