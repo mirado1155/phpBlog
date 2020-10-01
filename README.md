@@ -1,6 +1,8 @@
 # phpBlog
 Simple, personal blog developed with PHP
 
+Demonstration: https://www.youtube.com/watch?v=3c3v2V-AmOs
+
 First, you need to create a new mysql database. Actually, first you must have php and mysql installed. That's important. Then create the database. Name it whatever you'd like.
 
 Next, in the database you just created, run the code provided in 'create.sql'.
